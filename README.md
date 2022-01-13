@@ -10,7 +10,7 @@
 
 ### What am I up to? 
 
-🌱 I'm currently developing data science trainings and workshops to supplement the curriculum of our new [Master of Environmental Data Science](https://bren.ucsb.edu/masters-programs/master-environmental-data-science/academics-meds) (MEDS) degree program at UC Santa Barbara. All materials are open source, which you can check out on the [MEDS website](https://ucsb-meds.github.io/workshops.html)! 
+🌱 I'm currently developing data science trainings and workshops to supplement the curricula of our new [Master of Environmental Data Science](https://bren.ucsb.edu/masters-programs/master-environmental-data-science/academics-meds) (MEDS) degree program at UC Santa Barbara. All materials are open source, which you can check out on the [MEDS website](https://ucsb-meds.github.io/workshops.html)! 
 
 ### Experience
 
