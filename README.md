@@ -19,7 +19,7 @@
 
 ### Education
 
-- MA (2020): Ecology, Evolution & Marine Biology (UC Santa Barbara)
+- MS (2020): Ecology, Evolution & Marine Biology (UC Santa Barbara)
 - BS (2016): Marine Biology (Northeastern University)
 
 <!--
