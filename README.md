@@ -12,7 +12,7 @@
 
 🌱 I'm currently developing data science trainings and workshops to supplement the curricula of our new [Master of Environmental Data Science](https://bren.ucsb.edu/masters-programs/master-environmental-data-science/academics-meds) (MEDS) degree program at UC Santa Barbara. All materials are open source, which you can check out on the [MEDS website](https://ucsb-meds.github.io/workshops.html)! 
 
-💜 In my spare time I'm also co-organizer for R-Ladies Santa Barbara -- join us for our next meetup on June 9th where we'll chat all things [Quarto](https://quarto.org/docs/get-started/) with [NASA Openscapes](https://nasa-openscapes.github.io/). Registration info [here](https://www.meetup.com/rladies-santa-barbara/events/285849847/). If you're interested in leading or co-leading an event, reach out to me on Twitter!
+💜 In my spare time I'm also co-organizer for R-Ladies Santa Barbara -- join us for our next meetup on June 9th where we'll chat all things [Quarto](https://quarto.org/docs/get-started/) with [NASA Openscapes](https://nasa-openscapes.github.io/). Registration info [here](https://www.meetup.com/rladies-santa-barbara/events/285849847/). Past event materials can be found on our [GitHub repo](https://github.com/rladies/meetup-presentations_santabarbara). If you're interested in leading or co-leading an event, reach out to me on Twitter!
 
 ### Experience
 
