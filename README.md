@@ -4,6 +4,8 @@
 
 <br>
 
+😄 **Pronouns:** *she/her* 
+
 📝 **Personal website:** [samanthacsik.github.io](https://samanthacsik.github.io/)
 
 🐦 **Twitter:** [@SamanthaCsik](https://twitter.com/SamanthaCsik)
