@@ -20,13 +20,13 @@
 
 ### Experience
 
-- 2021 - present: Data Training Coordintor (NCEAS)
-- 2020 - 2021: Data Science Fellow (NCEAS)
+- Data Training Coordintor @ NCEAS (2021 - present)
+- Data Science Fellow @ NCEAS (2020 - 2021)
 
 ### Education
 
-- MS (2020): Ecology, Evolution & Marine Biology (UC Santa Barbara)
-- BS (2016): Marine Biology (Northeastern University)
+- MS in Ecology, Evolution & Marine Biology @ UC Santa Barbara (2020)
+- BS in Marine Biology @ Northeastern University (2016)
 
 <!--
 **samanthacsik/samanthacsik** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
