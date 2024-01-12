@@ -22,6 +22,7 @@
 ### Experience
 
 - Data Training Coordintor @ NCEAS (2021 - present)
+- Lecturer @ Bren School of Environmental Science & Management (Winter 2024)
 - Data Science Fellow @ NCEAS (2020 - 2021)
 
 ### Education
