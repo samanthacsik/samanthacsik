@@ -8,10 +8,9 @@
 
 📝 **Personal website:** [samanthacsik.github.io](https://samanthacsik.github.io/)
 
-🐦 **Twitter:** [@SamanthaCsik](https://twitter.com/SamanthaCsik)
-
 ### What am I up to? 
-👩‍🏫 I'm developing and teaching a Data Visualization & Communication course (Winter 2024) as part of UCSB's [Master of Environmental Data Science](https://bren.ucsb.edu/masters-programs/master-environmental-data-science/academics-meds) (MEDS) program. So far, it's been a *really* cool opportunity to think deeply about pedagogical approaches, course structure, and of course to puzzle over how best to create a cohesive curriculum. Check out my ever-evolving [course website](https://samanthacsik.github.io/EDS-240-data-viz/), which houses all teaching materials.
+👩‍🏫 I'm excited to begin development on a new course, [Data science tools for building professional online portfolios](https://bren.ucsb.edu/courses/eds-296-1f) (Fall 2024), as part of UCSB's [Master of Environmental Data Science](https://bren.ucsb.edu/masters-programs/master-environmental-data-science/academics-meds) (MEDS) program. It'll focus on developing a polished online presence for showcasing your skills, projects, expertise, and of course, personality. Check out the evolving [course website](https://ucsb-meds.github.io/EDS-296-DS-portfolios/) as I iterate on materials leading up to fall quarter.
+
 
 🌱 I'm continuouly developing and updating data science trainings and workshops to supplement the curricula of the [Master of Environmental Data Science](https://bren.ucsb.edu/masters-programs/master-environmental-data-science/academics-meds) (MEDS) degree program at UC Santa Barbara. All materials are open source, which you can check out on the [MEDS GitHub Organization](https://github.com/search?q=topic%3Aworkshop-materials+org%3AUCSB-MEDS+fork%3Atrue&type=repositories).
 
@@ -21,8 +20,8 @@
 
 ### Experience
 
+- Lecturer @ UCSB's Bren School of Environmental Science & Management (2024 - present)
 - Data Training Coordintor @ NCEAS (2021 - present)
-- Lecturer @ UCSB's Bren School of Environmental Science & Management (Winter 2024)
 - Data Science Fellow @ NCEAS (2020 - 2021)
 
 ### Education
