@@ -1,6 +1,6 @@
 <h1 align="center">Hi! I'm Sam Csik (pronounced "chick" 🐥, <em>she/her</em>)</h1>
 
-Professionally, I'm a data science educator supporting UC Santa Barbara's [Master of Environmental Data Science (MEDS) program](https://bren.ucsb.edu/masters-programs/master-environmental-data-science).  I love teaching data science skills, learning and implementing inclusive pedagogical approaches, and the communities that supports both of those things. Outside of work, I’m an avid hiker (find my best attempt at [creating my own](https://myoctocat.com/) "octohiker", below), novice (but passionate) meal-maker, and I really love the color green. Learn more on my personal website, [samanthacsik.github.io](https://samanthacsik.github.io/)!
+Professionally, I'm a data science educator supporting UC Santa Barbara's [Master of Environmental Data Science (MEDS) program](https://bren.ucsb.edu/masters-programs/master-environmental-data-science).  I love teaching data science skills, learning and implementing inclusive pedagogical approaches, and the communities that supports both of those things. Outside of work, I’m an avid hiker (find my best attempt at [creating my own](https://myoctocat.com/) "octohiker", below), novice (but passionate) meal-maker, and I really love the color green. Learn more on my personal website, [samanthacsik.github.io](https://samanthacsik.github.io/).
 
 <!--
 [![Sam's GitHub stats](https://github-readme-stats.vercel.app/api?username=samanthacsik)](https://github.com/samanthacsik/github-readme-stats)
@@ -20,6 +20,7 @@ See: https://github.com/abhisheknaiidu/awesome-github-profile-readme
 
 ✍️ I wrote up a reflection (of sorts) after I finished teaching my first ever 4-unit course, [Data Visualization & Communication](https://samanthacsik.github.io/EDS-240-data-viz/), in winter 2024. You can read about what it was like to [build and teach a graduate-level data science course](https://samanthacsik.github.io/posts/2024-04-02-data-viz-course/) on my blog!
 
+<!--
 ### Experience
 
 - Lecturer @ UCSB's Bren School of Environmental Science & Management (2024 - present)
@@ -30,6 +31,7 @@ See: https://github.com/abhisheknaiidu/awesome-github-profile-readme
 
 - MS in Ecology, Evolution & Marine Biology @ UC Santa Barbara (2020)
 - BS in Marine Biology @ Northeastern University (2016)
+-->
 
 <!--
 **samanthacsik/samanthacsik** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
