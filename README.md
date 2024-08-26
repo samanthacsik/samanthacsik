@@ -12,7 +12,7 @@ See: https://github.com/abhisheknaiidu/awesome-github-profile-readme
 
 🌱 I'm continuouly developing and iterating on data science trainings and workshops to supplement the MEDS curricula. All materials are open source, which you can check out on the [MEDS GitHub Organization](https://github.com/search?q=topic%3Aworkshop-materials+org%3AUCSB-MEDS+fork%3Atrue&type=repositories).
 
-<img align='right' src='https://github.com/user-attachments/assets/e52ac51c-2704-4242-9130-a92531ffab78' width='300' alt="here is some alt text">
+<img align='right' src='https://github.com/user-attachments/assets/e52ac51c-2704-4242-9130-a92531ffab78' width='300' alt="Mona the Octocat dressed as a hiker. Mona has brown hair tied up in a high ponytail and is wearing a red bandana around her neck, a green t-shirt with a github star on the front, tan cargo shorts, and brown leather boots. She holds a squirrel in an outstretched tentacle.">
 
 💜 In my spare time I'm also co-organizer for R-Ladies Santa Barbara -- stay tuned for upcoming events by joining our [Meetup Group](https://www.meetup.com/rladies-santa-barbara/). Past event materials can be found on our [GitHub repo](https://github.com/rladies/meetup-presentations_santabarbara). Please reach out if you're interested in leading or co-leading an event!
 
