@@ -18,7 +18,7 @@ See: https://github.com/abhisheknaiidu/awesome-github-profile-readme
 
 🥾 My absolute favorite activity is spending time on the trails hiking with my pup, Tallie. I finally got around to scraping my Strava data using the `{rStrava}` package and created a heatmap of my activities using `leaflet` -- check it out on my [personal website](https://samanthacsik.github.io/about.html#fa-hiking-titlea-person-with-a-backpack-and-trekking-pole-the-hobby)! More recently, I've embarked on building a [Strava dashboard](https://samanthacsik.shinyapps.io/strava_dashboard/) to make my map a bit more interactive and also add in some additional fun data viz. It's a work in progress, but feel free to poke around. Find the code for the map and dashboard on my [strava-dashboard repo](https://github.com/samanthacsik/strava-dashboard).
 
-✍️ I wrote up a reflection (of sorts) after I finished teaching my first ever 4-unit course, [Data Visualization & Communication](https://samanthacsik.github.io/EDS-240-data-viz/), in winter 2024. You can read about what it was like to [build and teach a graduate-level data science course](https://samanthacsik.github.io/posts/2024-04-02-data-viz-course/) on my blog!
+✍️ I wrote up a reflection (of sorts) after I finished teaching my first ever 4-unit course, [Data Visualization & Communication](https://eds-240-data-viz.github.io/), in winter 2024. You can read about what it was like to [build and teach a graduate-level data science course](https://samanthacsik.github.io/posts/2024-04-02-data-viz-course/) on my blog!
 
 <!--
 ### Experience
