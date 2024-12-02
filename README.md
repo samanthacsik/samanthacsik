@@ -1,4 +1,4 @@
-<h1 align="center">Hi! I'm Sam Csik (pronounced "chick" 🐥, <em>she/her</em>)</h1>
+<h1 align="center">Hi! I'm Sam Shanny-Csik (pronounced "chick" 🐥, <em>she/her</em>)</h1>
 
 Professionally, I'm a data science educator supporting UC Santa Barbara's [Master of Environmental Data Science (MEDS) program](https://bren.ucsb.edu/masters-programs/master-environmental-data-science).  I love teaching data science skills, learning and implementing inclusive pedagogical approaches, and the communities that support both of those things. Outside of work, I’m an avid hiker (find my best attempt at [creating my own](https://myoctocat.com/) "octohiker", below), novice (but passionate) meal-maker, and I really love the color green. Learn more on my personal website, [samanthacsik.github.io](https://samanthacsik.github.io/).
 
