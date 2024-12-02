@@ -8,7 +8,7 @@ See: https://github.com/abhisheknaiidu/awesome-github-profile-readme
 -->
 
 ## What am I up to? 
-👩‍🏫 I'm currently developing a new course, [Data science tools for building professional online portfolios](https://bren.ucsb.edu/courses/eds-296-1f) (Fall 2024), as part of UCSB's [MEDS](https://bren.ucsb.edu/masters-programs/master-environmental-data-science/academics-meds) program. It'll focus on developing a polished online presence for showcasing your skills, projects, expertise, and of course, personality. Check out the evolving [course website](https://ucsb-meds.github.io/EDS-296-DS-portfolios/) as I iterate on materials leading up to fall quarter.
+👩‍🏫 I'm recently finished developing and teaching a new course, [Data science tools for building professional online portfolios](https://bren.ucsb.edu/courses/eds-296-1f) (Fall 2024), as part of UCSB's [MEDS](https://bren.ucsb.edu/masters-programs/master-environmental-data-science/academics-meds) program. It focuses on developing a polished online presence for showcasing your skills, projects, expertise, and of course, personality. You can check out the [course website](https://ucsb-meds.github.io/EDS-296-DS-portfolios/), which houses all materials! I'm now turning my attention back to [EDS 240: Data Visualization & Communication](https://eds-240-data-viz.github.io/), which I'll be teaching for the second time this Winter Quarter -- I'm currently deep in the update / improve phase!
 
 🌱 I'm continuouly developing and iterating on data science trainings and workshops to supplement the MEDS curricula. All materials are open source, which you can check out on the [MEDS GitHub Organization](https://github.com/search?q=topic%3Aworkshop-materials+org%3AUCSB-MEDS+fork%3Atrue&type=repositories).
 
